@@ -5,7 +5,7 @@ Saya merupakan seorang mantan wibu dan juga programmer yang lebih sering membuat
 
 ## Skill dan Pengalaman
 * <img src="https://github.com/salamanderman234/salamanderman234/blob/main/gopher.png" width='13'> Golang
-* <img src="https://github.com/salamanderman234/salamanderman234/blob/main/nodejs.png" width='13'> NodeJS
+* <img src="https://github.com/salamanderman234/salamanderman234/blob/main/nodejs.png" width='130'> NodeJS
 * <img src="https://github.com/salamanderman234/salamanderman234/blob/main/python.png" width='13'> Python
 * <img src="https://github.com/salamanderman234/salamanderman234/blob/main/laravel.png" width='13'> Laravel
 * <img src="https://github.com/salamanderman234/salamanderman234/blob/main/mongo_db.png" width='13'> MongoDB
