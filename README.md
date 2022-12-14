@@ -1,5 +1,5 @@
 ![](https://github.com/salamanderman234/salamanderman234/blob/main/saekano.jpg)
-# Halo, saya Tresna
+# Halo !, saya Tresna
 
 Saya merupakan seorang mantan wibu dan juga programmer yang lebih sering membuat aplikasi berbasis web. Saya senang mempelajari bahasa, teknologi dan framework yang sedang trend digunakan sekarang seperti go, nodeJS dan juga react. Saya juga menguasai beberapa teknologi seperti python, php dan Laravel.
 
