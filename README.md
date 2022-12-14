@@ -1,5 +1,5 @@
 # Halo, saya Tresna
-![](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
+![]([https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png](https://muranodo.files.wordpress.com/2015/02/saenai-kanojo-no-sodatekata.jpg))
 
 Saya merupakan seorang mantan wibu dan juga programmer yang lebih sering membuat aplikasi berbasis web. Saya senang mempelajari bahasa, teknologi dan framework yang sedang trend digunakan sekarang seperti go, nodeJS dan juga react. Saya juga menguasai beberapa teknologi seperti python, php dan Laravel.
 
