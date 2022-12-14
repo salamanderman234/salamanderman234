@@ -11,7 +11,9 @@ Saya merupakan seorang mantan wibu dan juga programmer yang lebih sering membuat
 * <img src="https://github.com/salamanderman234/salamanderman234/blob/main/mongo_db.png" width='13'> MongoDB
 * <img src="https://github.com/salamanderman234/salamanderman234/blob/main/postgresql.png" width='13'> Postgre
 
-## Kontak Saya
+## Sosial Media
 [<img src='https://github.com/salamanderman234/salamanderman234/blob/main/github.png' alt='github' height='40'>](https://github.com/salamanderman234)  [<img src='https://github.com/salamanderman234/salamanderman234/blob/main/facebook.png' alt='facebook' height='40'>](https://www.facebook.com/tresna.saputra.75)  [<img src='https://github.com/salamanderman234/salamanderman234/blob/main/instagram.png' alt='instagram' height='40'>](https://www.instagram.com/tresnasaputra9/)  [<img src='https://github.com/salamanderman234/salamanderman234/blob/main/twitter.png' alt='twitter' height='40'>](https://twitter.com/tresnasaputra23)  
 
+## Kontak Saya
+* <img src='https://github.com/salamanderman234/salamanderman234/blob/main/github.png' alt='github' height='40'> tresnasaputra9@gmail.com
 
