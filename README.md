@@ -12,6 +12,6 @@ Saya merupakan seorang mantan wibu dan juga programmer yang lebih sering membuat
 * <img src="https://github.com/salamanderman234/salamanderman234/blob/main/postgresql.png" width='13'> Postgre
 
 ## Kontak Saya
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/salamanderman234)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/tresna.saputra.75)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/tresnasaputra9/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/tresnasaputra23)  
+[<img src='https://github.com/salamanderman234/salamanderman234/blob/main/facebook.png' alt='github' height='40'>](https://github.com/salamanderman234)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/tresna.saputra.75)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/tresnasaputra9/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/tresnasaputra23)  
 
 
