@@ -1,7 +1,7 @@
 ![](https://github.com/salamanderman234/salamanderman234/blob/main/banner-final.jpg)
 # Hallo, saya Tresna
 
-Saya merupakan seorang mantan wibu dan juga programmer yang lebih sering membuat aplikasi berbasis web. Saya senang mempelajari dan mengulik teknologi yang sedang trend digunakan oleh kebanyakan orang. Selain ngoding, saya juga hobi mengetik dan memodifikasi keyboard mechanical yang saya punya agar saya bisa lebih betah untuk ngoding berjam-jam :D
+Saya seorang pengguna Laravel garis keras
 
 ## Skill dan Pengalaman
 * <img src="https://github.com/salamanderman234/salamanderman234/blob/main/gopher.png" width='13'> Golang
