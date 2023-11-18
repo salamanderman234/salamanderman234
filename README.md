@@ -1,22 +1,31 @@
-![](https://github.com/salamanderman234/salamanderman234/blob/main/banner-final.jpg)
-# Hallo, saya Tresna
+<h1 align="center">Hi 👋, I'm Tresna</h1>
+<h3 align="center">A passionate fulllstack web developer &#127470;&#127475</h3>
 
-Saya seorang pengguna Laravel garis keras
+<a target="_blank" align="center">
+  <img align="right" top="500" height="300" width="400" alt="GIF" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif">
+</a>
 
-## Skill dan Pengalaman
-* <img src="https://github.com/salamanderman234/salamanderman234/blob/main/gopher.png" width='13'> Golang
-* <img src="https://github.com/salamanderman234/salamanderman234/blob/main/nodejs.png" width='13'> NodeJS
-* <img src="https://github.com/salamanderman234/salamanderman234/blob/main/python.png" width='13'> Python
-* <img src="https://github.com/salamanderman234/salamanderman234/blob/main/laravel.png" width='13'> Laravel
-* <img src="https://github.com/salamanderman234/salamanderman234/blob/main/postgresql.png" width='13'> Postgre
-<!-- * <img src="https://github.com/salamanderman234/salamanderman234/blob/main/html5.png" width='13'> HTML
-* <img src="https://github.com/salamanderman234/salamanderman234/blob/main/css3.png" width='13'> CSS
-* <img src="https://github.com/salamanderman234/salamanderman234/blob/main/javascript.png" width='13'> Javascript -->
-<!-- * <img src="https://github.com/salamanderman234/salamanderman234/blob/main/tailwindcss.png" width='13'> TailwindCSS -->
-<!-- * <img src="https://github.com/salamanderman234/salamanderman234/blob/main/mongo_db.png" width='13'> MongoDB -->
+- 🌱 I’m currently Working on Web App (go & laravel)
 
+- 🤝 I’m available for freelancing.
 
-## Sosial Media
-[<img src='https://github.com/salamanderman234/salamanderman234/blob/main/github.png' alt='github' height='40'>](https://github.com/salamanderman234)  [<img src='https://github.com/salamanderman234/salamanderman234/blob/main/facebook.png' alt='facebook' height='40'>](https://www.facebook.com/tresna.saputra.75)  [<img src='https://github.com/salamanderman234/salamanderman234/blob/main/instagram.png' alt='instagram' height='40'>](https://www.instagram.com/tresnasaputra9/)  [<img src='https://github.com/salamanderman234/salamanderman234/blob/main/twitter.png' alt='twitter' height='40'>](https://twitter.com/tresnasaputra23)  
+- 🌱 I’m currently learning network security
 
+- 💬 Ask me about **Go & Laravel**
 
+- 📫 How to reach me **tresnasaputra9@gmail.com**
+
+<h3 align="center" > <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30" height="30" style="margin-right: 10px;">Connect with me 🤝 </h3>
+
+<p align="center">
+
+ <div align="center"  class="icons-social" style="margin-left: 10px;">
+        <a style="margin-left: 10px;"  target="_blank" href="https://www.linkedin.com/in/i-gede-tresna-agung-saputra-19b753197/">
+			<img src="https://img.icons8.com/doodle/40/000000/linkedin--v2.png"></a>
+        <a style="margin-left: 10px;" target="_blank" href="https://github.com/salamanderman234">
+		<img src="https://img.icons8.com/doodle/40/000000/github--v1.png"></a>
+        <a style="margin-left: 10px;" target="_blank" href="https://www.instagram.com/tresnasaputra9/">
+			<img src="https://img.icons8.com/doodle/40/000000/instagram-new--v2.png"></a>
+      </div>
+
+</p>
